@@ -1,4 +1,4 @@
-// protected members are accessible within the class and in its derived classes, but not from outside.
+/* protected members are accessible within the class and in its derived classes, but not from outside.*/
 #include <iostream>
 using namespace std;
 
